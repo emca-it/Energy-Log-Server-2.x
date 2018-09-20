@@ -29,7 +29,7 @@ Optionally you can:
 - install and configure the winlogbeat agent;
 - configure Energy Log Server perf_data to integrated with the Energy Log Server Monitor;
 - configure naemonLogs to integrated with the Naemon;
-- configure integration with Active Directory and SSO servers. You can find necessary information in [12-00-00-Integration_with_AD](/./12-00-00-Integration_with_AD/12-00-00-Integration_with_AD.md) and [13-00-00-Windows-SSO](/./13-00-00-Windows-SSO/13-00-00-Windows-SSO.md);
+- configure integration with Active Directory and SSO servers. You can find necessary information in [12-00-00-Integration_with_AD](/12-00-00-Integration_with_AD/12-00-00-Integration_with_AD.md) and [13-00-00-Windows-SSO](/13-00-00-Windows-SSO/13-00-00-Windows-SSO.md);
 - install and conigure monitoring with Marver:
 
 	`cd /usr/share/elasticsearch`\
