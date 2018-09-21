@@ -1,4 +1,4 @@
-Energy-Log-Server-2.x User Guide
+energy_logserver_2x_doc User Guide
 ------------------------------
 
 .. toctree::

@@ -1,5 +1,5 @@
 Elasticsearch
--------------
+=============
 
 Elasticsearch is a NoSQL database solution that is the heart of our
 system. Text information send to the system, application and system

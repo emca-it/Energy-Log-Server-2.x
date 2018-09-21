@@ -1,5 +1,5 @@
 Introduction
-------------
+============
 
 Energy Log Server is innovation solution allowing for centralize IT
 systems events. It allows for an immediately review, analyze and
